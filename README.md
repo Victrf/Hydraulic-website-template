@@ -4,6 +4,7 @@ Hydraulic website template
 A responsive business website built for a hydraulic equipment and services company. Designed with Bootstrap 5, the site features a modern user interface, seamless animations, and full mobile responsiveness.
 🌐 Live Preview
 🔗 View Live Website
+https://chimerical-naiad-fd7e4f.netlify.app/
 
 (Replace with your actual domain or local project path)
 
