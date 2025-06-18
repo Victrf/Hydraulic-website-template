@@ -63,6 +63,3 @@ Implemented using Bootstrap’s built-in carousel component with:
 
 📷 Company service highlights or banner sections
 
-html
-Copy
-Edit
